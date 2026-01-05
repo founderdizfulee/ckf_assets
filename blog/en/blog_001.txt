@@ -3,7 +3,7 @@ Author: Founder Dizfulee
 Date: 2025-12-6
 
 
-_ _ _
+---
 
 Dear martial arts practitioners,
 Many of you have surely experienced this:
@@ -36,3 +36,4 @@ Founder Dizfu Lee
 Creator and Founder of the International Martial Arts Style (Clever’s Kung Fu)
 
 President of the World Martial Arts Organization (Clever’s Kung Fu)
+
